@@ -33,7 +33,7 @@
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
 | Requirement | Version |
 |-------------|---------|
